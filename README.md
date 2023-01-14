@@ -6,4 +6,4 @@
 - Spring boot
 - Postgresql
 
- <img src="./alunos.api.png" width="1080">
+ <img src="./alunos-api.png" width="1080">
